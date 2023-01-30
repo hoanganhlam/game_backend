@@ -19,7 +19,8 @@ import {Server} from "socket.io";
 
 const whitelist = [
   "http://127.0.0.1:3000",
-  "http://192.168.1.3:3000"
+  "http://192.168.1.3:3000",
+  "https://ninosaur.com"
 ]
 
 const PLAYER_STATES = {
